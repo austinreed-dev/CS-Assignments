@@ -7,6 +7,3 @@
 # Ignore temporary files
 *.tmp
 *.log
-
-# Ignore the Autos.txt file if you don't want it on GitHub
-Autos.txt
