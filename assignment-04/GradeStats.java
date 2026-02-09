@@ -1,7 +1,9 @@
 import java.util.Scanner;
 
 public class GradeStats {
+    @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {
+        @SuppressWarnings("resource")
         Scanner sc = new Scanner(System.in);
         
         double total = 0;
